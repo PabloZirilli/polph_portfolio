@@ -1,0 +1,31 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to replace any BG image is to add image URL in url('....') area of related classname.
+If you need assistance, please go to http://www.designova.net/downloads.html and request a downloadable 
+ZIP pack contains original live preview version with all preview images linked properly, so you can easily 
+replace preview images directly;
+*/
+
+/*sample*/
+footer.mastfoot{
+	background-image: url('../images/stripe.png');
+}
+.counter-region-bg{
+	background-image: url('../images/bg/05.jpg');
+}
+.home-counter-region-bg{
+	background-image: url('../images/bg/06.jpg');
+}
+.agency-bg{
+	background-image: url('../images/bg/06.jpg');
+}
+.parallax-showcase-01{
+	background-image: url('../images/bg/02.jpg');
+}
+.parallax-showcase-02{
+	background-image: url('../images/bg/03.jpg');
+}
+.parallax-showcase-03{
+	background-image: url('../images/bg/01.jpg');
+}
